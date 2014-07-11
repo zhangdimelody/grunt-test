@@ -1,0 +1,1 @@
+/*abc*/function hello(){alert(3)}
